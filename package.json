@@ -1,0 +1,17 @@
+{
+  "name": "w8.js",
+  "version": "1.0.2",
+  "description": "an alternative method to SetTimeout() using promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SetTimeout",
+    "promise",
+    "promises",
+    "wait"
+  ],
+  "author": "Azri Hamza <azri.hamza7@gmail.com>",
+  "license": "ISC"
+}
